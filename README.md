@@ -1,3 +1,5 @@
+![alt text](https://i.imgur.com/FexiJD2.png)
+
 # Reqirements:
 ### Python 3.11+
 ```asyncio, aiohttp, AsyncioPySide6, PySide6, qt_material```
